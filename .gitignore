@@ -1,0 +1,6 @@
+.bundle
+.sass-cache
+*.DS_Store
+/bower_components/*
+/tmp
+*.swp
